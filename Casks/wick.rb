@@ -1,6 +1,6 @@
 cask "wick" do
-  version "0.1.0"
-  sha256 "3b2e7b48f04c6c8f09da93870ca564e7e6acdd48ec0877c42a78ba918267ac1e"
+  version "0.2.0"
+  sha256 "a91787fcb9897672f05b70d237fcccf522a6eb4ed846561162c68b323c864c61"
 
   url "https://github.com/s1lvazxy/wick/releases/download/v#{version}/Wick-#{version}.zip"
   name "Wick"
